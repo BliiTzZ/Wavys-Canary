@@ -1,7 +1,7 @@
 {
-    "token": "ODI2ODc0ODUyMjY5ODgzNDYz.YGS1Nw.dkzKfzBDVOHQ62-Oqv7FNV3OrpM",
-    "support": "802070964287963177",
-    "id_bot": "826874852269883463",
+    "token": "TOKEN",
+    "support": "ID_SUPPORT",
+    "id_bot": "ID_BOT",
     "prefix": "*",
     "owner": ["356344219813806080","640873256940732446"],
     "footer": "L'équipe de Café Des Devs",
