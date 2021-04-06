@@ -1,6 +1,5 @@
-const Discord = require('discord.js')
 const { parse } = require("twemoji-parser");
-const { MessageEmbed } = require("discord.js");
+const { Discord, MessageEmbed } = require("discord.js");
 const { color } = require('../../db/config.json');
 
 
